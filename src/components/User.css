@@ -1,0 +1,24 @@
+.user-card {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 1px solid #4caf50; 
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 20px;
+  width: 300px;
+  text-align: center;
+}
+
+.user-card img {
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.user-card a {
+  color: #76ff03;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.user-card a:hover {
+  text-decoration: underline;
+}
